@@ -1,0 +1,1 @@
+This error occurs when you are trying to access a state variable before it has been initialized. This is a common issue in React Native applications, especially when dealing with asynchronous operations.
